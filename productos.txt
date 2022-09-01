@@ -1,0 +1,1 @@
+[{"title":"Hobbit","price":35,"thumbnail":"www.thehobbit.com/img.png","id":1},{"title":"MindHunter","price":25.5,"thumbnail":"www.libros.com/mindhunter.png","id":2},{"title":"Steve Jobs","price":25.5,"thumbnail":"www.bigboss.com/steve.png","id":3}]
